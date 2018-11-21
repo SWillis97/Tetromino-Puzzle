@@ -1,2 +1,2 @@
 # Tetromino-Puzzle
-My solution to the tetromino puzzle - a task where you have to best fill a target area with tetrominos, commonly known as tetris pieces
+My solution to the tetromino puzzle created October to December 2017. Run the performance test file in any IDE to see my solution. The size and density of the target area can be edited on line 20 of the code.
